@@ -4,17 +4,7 @@ Oil Field Operations Database - SQL & Python Analytics
 
 A relational database system for managing and analyzing oil production data across multiple wells and fields. Built with SQLite and Python to demonstrate database design, SQL query optimization, and data analysis capabilities.
 
-Key Features:
-- SQLite database with 1,200+ production records across 20 wells and 3 fields
-- Complex SQL queries for aggregation, ranking, and temporal analysis
-- Production performance analysis by well, field, and region
-- Monthly trend identification and top performer extraction
-- Data manipulation using Pandas for integrated analytics
-
-🛠️ Technologies:
-Python | SQL | SQLite3 
-
-📊 Analysis Includes:
+Analysis Includes:
 - Total production by oil field
 - Average daily production per well
 - Monthly production trends over 40 months
